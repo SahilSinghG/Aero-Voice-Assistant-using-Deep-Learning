@@ -104,11 +104,17 @@ Then give your command.
 ## 📂 Project Structure
 
 aero-voice-assistant
+
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── .env
+
 └── .gitignore
 
 ## 📌 Skills Demonstrated
